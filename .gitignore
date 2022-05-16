@@ -3,3 +3,4 @@ tests/
 .nvmrc
 .prettierrc.js
 *.DS_Store
+.vscode
